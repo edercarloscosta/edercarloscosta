@@ -2,7 +2,7 @@
 
 I am a Senior Software Engineer with years of experience as a problem solver. 
 
-- 🔭 I’m currently working as Senior Core Developer for a Finance company focusing on build new products ecosystem.
+- 🔭 I’m currently working as Senior Core Developer for a Finance company focusing on build new products.
 - 🌱 Exploring new architectural techniques and patterns
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eder-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edercarlosdacosta/)
 
