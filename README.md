@@ -2,7 +2,7 @@
 
 I am a Senior Software Engineer with years of experience as a problem solver. 
 
-- 🔭 I’m currently working as a Senior Software Engineer for an Industry 4.0 company.
+- 🔭 I’m currently working as a Senior Software Engineer for a Fintech.
 - 🌱 Exploring new architectural techniques and patterns
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eder-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edercarlosdacosta/)
 
